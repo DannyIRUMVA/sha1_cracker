@@ -1,4 +1,4 @@
-# SHA1 cracker
+# SHA1 cracker for password for instagram
 
 ## Usage
 
